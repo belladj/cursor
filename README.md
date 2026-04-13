@@ -12,4 +12,5 @@ Cursor Portfolio Project
 
 — What issues you ran into and how you solved them:
 1. Installation permission issue
+
 Resolution: Install in different drive
